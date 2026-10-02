@@ -29,7 +29,7 @@ int main()
         bill = units * 30;
     }
 
-    printf("Total water bill: Ksh%.2f\n", bill);
+    printf("Total water bill: %.2fKES\n", bill);
 
     return 0;
 }
